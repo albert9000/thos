@@ -1,0 +1,13 @@
+#Ignore normalize CSS
+css/normalize.css
+
+#Ignore doc folder
+/doc
+
+#Ignore supplied JS files
+/js/vendor/
+/js/main.js
+/js/plugins.js
+
+#Ignore HTML5 BoilerPlate License
+LICENSE.txt
